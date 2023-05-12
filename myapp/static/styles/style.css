@@ -1,0 +1,21 @@
+body{
+    background-color: #181818;
+    color: #f0f8ff;
+}
+
+.logoProject {
+    color: #58affb;
+    background-color: #ececec;
+    border-radius: 30px;
+}
+
+/* Tasks */
+.card {
+    background-color: #003e68;
+    border-radius: 30px;
+}
+
+.card:hover{
+    background-color: #005c99;
+    cursor: pointer;
+}
